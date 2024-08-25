@@ -1,6 +1,6 @@
 Autor AnakinEU
 
-Strona bazuje w 25% na kodzie pluginu webstats oraz w 85% na kodzie sklepu vMCShop do którego autora link zamieszczam poniżej
+Strona bazuje w 15% na kodzie pluginu webstats oraz w 85% na kodzie sklepu vMCShop do którego autora link zamieszczam poniżej
 https://github.com/Verlikylos/vMCShop-Basic/
 
 
